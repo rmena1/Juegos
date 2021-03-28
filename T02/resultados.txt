@@ -1,0 +1,8 @@
+Prueba1, 3393
+Prueba2, 3567
+Prueba3, 4725
+Prueba6, 3
+Rod, 252
+Rod, 720
+Rod, 6150
+adfdf, 0

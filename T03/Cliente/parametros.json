@@ -1,0 +1,51 @@
+{
+    "path_logo_ventana_inicio": ["FrontEnd", "sprites", "Otros", "Logo_sol.png"],
+    "port": 8080,
+    "host": "192.168.100.17",
+    "path_ui_VI": ["FrontEnd", "VentanaInicio.ui"],
+    "path_ui_VJ": ["FrontEnd", "DCColonos.ui"],
+    "path_hexagono_arcilla": ["FrontEnd", "sprites", "Materias_primas", "hexagono_arcilla.png"],
+    "path_hexagono_madera": ["FrontEnd", "sprites", "Materias_primas", "hexagono_madera.png"],
+    "path_hexagono_trigo": ["FrontEnd", "sprites", "Materias_primas", "hexagono_trigo.png"],
+    "path_carta_arcilla": ["FrontEnd", "sprites", "Materias_primas", "carta_arcilla.png"],
+    "path_carta_madera": ["FrontEnd", "sprites", "Materias_primas", "carta_madera.png"],
+    "path_carta_trigo": ["FrontEnd", "sprites", "Materias_primas", "carta_trigo.png"],
+    "path_carta_reverso": ["FrontEnd", "sprites", "Materias_primas", "carta_reverso.png"],
+    "ficha_numero": ["FrontEnd", "sprites", "Materias_primas", "ficha_numero.png"],
+    "path_punto_victoria": ["FrontEnd", "sprites", "Desarrollo", "victoria_2.png"],
+    "path_monopolio": ["FrontEnd", "sprites", "Desarrollo", "monopolio_1.png"],
+    "path_azul": [["FrontEnd", "sprites", "Construcciones", "camino_azul_0.png"],
+    ["FrontEnd", "sprites", "Construcciones", "camino_azul_60.png"],
+    ["FrontEnd", "sprites", "Construcciones", "camino_azul_120.png"],
+    ["FrontEnd", "sprites", "Construcciones", "choza_azul.png"],
+    ["FrontEnd", "sprites", "Construcciones", "ciudad_azul.png"]
+    ],
+    "path_rojo": [["FrontEnd", "sprites", "Construcciones", "camino_rojo_0.png"],
+    ["FrontEnd", "sprites", "Construcciones", "camino_rojo_60.png"],
+    ["FrontEnd", "sprites", "Construcciones", "camino_rojo_120.png"],
+    ["FrontEnd", "sprites", "Construcciones", "choza_roja.png"],
+    ["FrontEnd", "sprites", "Construcciones", "ciudad_roja.png"]
+    ],
+    "path_verde": [["FrontEnd", "sprites", "Construcciones", "camino_verde_0.png"],
+    ["FrontEnd", "sprites", "Construcciones", "camino_verde_60.png"],
+    ["FrontEnd", "sprites", "Construcciones", "camino_verde_120.png"],
+    ["FrontEnd", "sprites", "Construcciones", "choza_verde.png"],
+    ["FrontEnd", "sprites", "Construcciones", "ciudad_verde.png"]
+    ],
+    "path_violeta": [["FrontEnd", "sprites", "Construcciones", "camino_violeta_0.png"],
+    ["FrontEnd", "sprites", "Construcciones", "camino_violeta_60.png"],
+    ["FrontEnd", "sprites", "Construcciones", "camino_violeta_120.png"],
+    ["FrontEnd", "sprites", "Construcciones", "choza_violeta.png"],
+    ["FrontEnd", "sprites", "Construcciones", "ciudad_violeta.png"]
+    ],
+    "path_dados":[
+        ["FrontEnd", "sprites", "Dados", "dado_1.png"],
+        ["FrontEnd", "sprites", "Dados", "dado_2.png"],
+        ["FrontEnd", "sprites", "Dados", "dado_3.png"],
+        ["FrontEnd", "sprites", "Dados", "dado_4.png"],
+        ["FrontEnd", "sprites", "Dados", "dado_5.png"],
+        ["FrontEnd", "sprites", "Dados", "dado_6.png"]
+    ],
+    "path_ui_VINT": ["FrontEnd", "VentanaIntercambio.ui"],
+    "path_ui_VSI": ["FrontEnd", "VentanaSolicitudIntercambio.ui"]
+}
